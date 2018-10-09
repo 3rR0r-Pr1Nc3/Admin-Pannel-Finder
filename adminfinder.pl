@@ -11,7 +11,7 @@ system "color 0a";
 print"\n";
 print "\t------------------------------------------+\n";
 print "\t+               Webadmin Finder v2.0      +\n";
-print "\t+   Site : www.facebook.com/3rR0r.Pr1Nc3  +\n";
+print "\t+   Site : www.facebook.com/error.prince3 +\n";
 print "\t+              Made By : 3rR0r Pr1Nc3     +\n";
 print "\t+-----------------------------------------+\n";
 print "\n";
